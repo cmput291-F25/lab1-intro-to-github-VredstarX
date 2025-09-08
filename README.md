@@ -2,4 +2,4 @@
 Name: Jessu Doroy
 CCID: doroy
 Lecture: A3
-Lab: D01
+Lab: D02
